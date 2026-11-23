@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "appId": "1868140",
+    "name": "DAVE THE DIVER",
+    "title": "Wine/FEX FileIntegrityCheck Bypass",
+    "description": "winhttp.dll proxy that hooks il2cpp_init and bypasses FileIntegrityCheck.CheckFileIntegrity() under Wine/FEX.",
+    "zipUrl": "https://raw.githubusercontent.com/Vigno04/LuaTools-Fixes/main/fixes/1868140.zip"
+  }
+]
